@@ -1,6 +1,6 @@
-### olá
-
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Ribeiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-ribeiro-9bb944b1/)](https://www.linkedin.com/in/vitor-ribeiro-9bb944b1/) 
+
+### Olá! 
 
 Portifolio em construção<br>Interesse em Data Science, focado na área da ciência.
 
