@@ -8,7 +8,7 @@ Portifolio em construção<br>Interesse em Data Science, focado na área da ciê
 <details> <p align="center">
 	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
 <br>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzRotivZz&layout=compact&show_icons=true&theme=dark"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzRotivZz&layout=compact&show_icons=true&theme=dark" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api?username=ZzRotivZz&show_icons=true&theme=dark"></a>
 
 
